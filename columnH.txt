@@ -1,0 +1,24 @@
+'
+'
+'
+Wu! Wu! Wu!
+100
+With an array of integers, the last integer's index is always this.
+What is the array length minus one?
+none
+200
+Before you can create an array of Strings, you'll need to do this.
+What is declare the array of Strings?
+none
+300
+Memory location, data type, and name are all properties of these. 
+What are variables?
+none
+400
+Deallocating memory is like talking trash, and it is also called this.
+What is "garbage collection."
+none
+500
+After the statment                                      Person[] person = new Person[20];           person[1] is set to this.
+What is null?
+none

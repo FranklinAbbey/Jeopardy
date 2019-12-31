@@ -1,0 +1,24 @@
+' 
+' 
+' 
+Problem Solving
+100
+They call this the self-referencing pointer..
+What is the reserved word, this?
+none
+200
+They're the three sets of operators we use when creating boolean expressions. 
+What are the arithmetic, relational and boolean operators?
+none
+300
+Both "class diagrams" and "sequence diagrams" belong to this.  
+What is the "Unified Modelling Language" (UML)?
+none
+400
+DeMorgan helped by stating !(P && Q) is the same as this.
+What is !P || !Q?
+none
+500
+They can access only the class variables and class constances of the class.
+What are class methods?
+none

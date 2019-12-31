@@ -1,0 +1,24 @@
+'
+' 
+' 
+Loops Anyone?
+100
+Pretest style is to this as posttest style is to that.
+What is a while loop is to a do-while loop?
+none
+200
+for(int i = 0; i <= 100; i++) will continue until this is true.
+What is i > 100?
+none
+300
+The cv in this "for(int cv = 0; cv <= 100; cv++)" statement is called this.
+What is a control variable?
+none
+400
+Use this style if you are not sure how many times you need to execute a statement, but you do want to execute it at least once.
+What is a do-while loop?
+none
+500
+When processing each element in a two dimensional array, this type is quite handy.
+What is a nested loop? 
+none

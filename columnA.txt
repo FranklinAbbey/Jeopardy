@@ -1,0 +1,24 @@
+' 
+' 
+' 
+Inherit This
+100
+The descendant of a superclass is called this. 
+What is a subclass?
+none
+200
+Use this keyword to activate a method or constructor of a superclass. 
+What is "super"?
+none
+300
+With a UML diagram, a hollow tipped arrow between classes translates to this Java keyword.  
+What is "extends" ?
+arrow.jpg
+400
+An "is-a" relationship defines this. 
+What is the relationship between subclass and superclass?
+none
+500
+This directive tells Java to ensure a subclass' method exists in a superclass.
+What is @override
+none

@@ -1,0 +1,26 @@
+'
+'
+'
+Numeric Data
+100
+This is missing from this: {byte, short, int, long, float}.
+What is double?
+none
+200
+Of these, this has the highest precision: {double, int, float, byte}.
+What is double?
+none
+300
+It's what this code will print.
+What is 108?
+LoopImage.jpg
+400
+Use this type of high precedence operator if you must do explicit type conversion.
+What is a typecast operator?
+none
+500
+To convert a String to a numeric data value, uses a class of this category.  
+What is the wrapper class?
+none
+
+

@@ -1,0 +1,24 @@
+'
+'
+'
+Wu Reminds Us
+100
+Java's self-referencing pointer is called this 
+What is this?
+none
+200
+Before you can create an instance of it, you need to define it.
+What is a class?
+none
+300
+From problem statement to correctly running program, the processes involved are collectively know as this.
+What is the software development life cycle (SDLC)?
+none
+400
+A couple centuries ago, DeMorgan helped us by stating !(P &&& Q) is the same as this.
+What is !P || !Q?
+none
+500
+An "exception thrower" that is not an "exception catcher" is known as this. 
+What is an "exception propagator?"
+none

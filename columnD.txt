@@ -1,0 +1,25 @@
+'
+'
+'
+Java Details
+100
+It's missing from                                             public static main( String[] args)
+What is void?
+none
+200
+This good old key word triggers the constructor of a class.
+What is new?
+none
+300
+Use this equivalent statement for this:                      rCubed = radius * radius * radius;
+What is rCubed = Math.pow(radius, 3.0);  ?
+none
+400
+Use a class' this to duplicate an instance of the class.
+What is a copy constructor?
+none
+500
+myResults[i] = "The value is : " + (i % i);          will do this.
+What is set array element i to "The value is : 0"?
+none
+

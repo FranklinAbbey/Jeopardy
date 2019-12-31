@@ -1,0 +1,24 @@
+'
+'
+'
+Classes and Methods
+100
+When passing values, this list must match that list.
+What are the arguments and the parameters?
+none
+200
+When a class has multiple constructors, the constructors are said to be this.
+What is overloaded?
+none
+300
+These variables are erased when the execution of a method is complete.
+What are local variables?
+none
+400
+Put the reserved words "public" and "static" before "final" to declare one of these.
+What is a VVCC (Very Visible Class Constant)?
+none
+500
+Of these, this cannot be returned from a method: {String, double, boolean, int, long}
+What is none of these? 
+none
